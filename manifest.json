@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Auto Skip Ads",
+		"description": "Automatically skips advertisement tracks. Toggle option is in Profile menu (top right button).",
+		"preview": null,
+		"main": "Extensions/autoSkipAds.js"
+	},
+	{
 		"name": "Auto Skip Videos",
 		"description": "Videos are unable to play in some regions because of Spotify's policy. Instead of jumping to next song in playlist, it just stops playing. And it's kinda annoying to open up the client to manually click next every times it happens. Use this extension to skip them automatically.",
 		"preview": null,
